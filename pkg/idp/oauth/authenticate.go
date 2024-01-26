@@ -231,6 +231,7 @@ func (b *IdentityProvider) Authenticate(r *requests.Request) error {
 	}
 
 	params.Set("client_id", b.config.ClientID)
+	params.Set("prompt","none")
 
 	r.Response.RedirectURL = b.authorizationURL + "?" + params.Encode()
 

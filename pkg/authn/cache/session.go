@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/tyrantlink/go-authcrunch/pkg/user"
 )
 
 const defaultSessionCleanupInternal int = 60

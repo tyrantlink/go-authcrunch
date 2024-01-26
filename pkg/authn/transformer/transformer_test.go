@@ -17,7 +17,7 @@ package transformer
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/internal/tests"
+	"github.com/tyrantlink/go-authcrunch/internal/tests"
 	"testing"
 )
 

@@ -20,9 +20,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/sso"
-	"github.com/greenpau/go-authcrunch/pkg/user"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
+	"github.com/tyrantlink/go-authcrunch/pkg/sso"
+	"github.com/tyrantlink/go-authcrunch/pkg/user"
 	"go.uber.org/zap"
 )
 

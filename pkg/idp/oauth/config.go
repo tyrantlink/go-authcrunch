@@ -16,8 +16,8 @@ package oauth
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/authn/icons"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/authn/icons"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
 	"net/url"
 	"regexp"
 	"strings"

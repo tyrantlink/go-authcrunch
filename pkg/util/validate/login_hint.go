@@ -15,7 +15,7 @@
 package validate
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
 	"net/mail"
 	"regexp"
 )

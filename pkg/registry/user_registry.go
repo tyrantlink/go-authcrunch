@@ -16,9 +16,9 @@ package registry
 
 import (
 	"encoding/json"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/identity"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/identity"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 )
 

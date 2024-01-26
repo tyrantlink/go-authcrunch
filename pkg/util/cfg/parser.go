@@ -15,7 +15,7 @@
 package cfg
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
 )
 
 const (

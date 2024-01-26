@@ -9,7 +9,7 @@ mkdir -p $HOME/.local/codeql/databases
 cd $HOME/.local/codeql/databases
 codeql database create \
   --language="go" \
-  --source-root="${GOPATH}/src/github.com/greenpau/go-authcrunch" \
+  --source-root="${GOPATH}/src/github.com/tyrantlink/go-authcrunch" \
   -- ./go-authcrunch-${CODEQL_SCAN_ID}
 
 cd $HOME/.local/codeql

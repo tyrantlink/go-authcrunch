@@ -15,7 +15,7 @@
 package acl
 
 import (
-	"github.com/greenpau/go-authcrunch/internal/tests"
+	"github.com/tyrantlink/go-authcrunch/internal/tests"
 	"testing"
 )
 

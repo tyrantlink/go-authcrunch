@@ -16,8 +16,8 @@ package local
 
 import (
 	"github.com/google/uuid"
-	"github.com/greenpau/go-authcrunch/pkg/identity"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/tyrantlink/go-authcrunch/pkg/identity"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 	"os"
 	"sync"

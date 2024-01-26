@@ -16,9 +16,9 @@ package identity
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/tyrantlink/go-authcrunch/internal/tests"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
 	"math"
 	"testing"
 	"time"

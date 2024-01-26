@@ -16,10 +16,10 @@ package validator
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/pkg/authproxy"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	addrutil "github.com/greenpau/go-authcrunch/pkg/util/addr"
+	"github.com/tyrantlink/go-authcrunch/pkg/authproxy"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
+	addrutil "github.com/tyrantlink/go-authcrunch/pkg/util/addr"
 	"net/http"
 	"strings"
 )

@@ -16,9 +16,9 @@ package acl
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	"github.com/tyrantlink/go-authcrunch/internal/tests"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	logutil "github.com/tyrantlink/go-authcrunch/pkg/util/log"
 	"reflect"
 	"strings"
 	"testing"

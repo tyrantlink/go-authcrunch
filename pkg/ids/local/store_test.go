@@ -16,12 +16,12 @@ package local
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/internal/testutils"
-	"github.com/greenpau/go-authcrunch/pkg/authn/enums/operator"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	"github.com/tyrantlink/go-authcrunch/internal/tests"
+	"github.com/tyrantlink/go-authcrunch/internal/testutils"
+	"github.com/tyrantlink/go-authcrunch/pkg/authn/enums/operator"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
+	logutil "github.com/tyrantlink/go-authcrunch/pkg/util/log"
 	"go.uber.org/zap"
 	"path"
 	"path/filepath"

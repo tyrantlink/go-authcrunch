@@ -16,15 +16,15 @@ package authcrunch
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/authn"
-	"github.com/greenpau/go-authcrunch/pkg/authz"
-	"github.com/greenpau/go-authcrunch/pkg/credentials"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/idp"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/messaging"
-	"github.com/greenpau/go-authcrunch/pkg/registry"
-	"github.com/greenpau/go-authcrunch/pkg/sso"
+	"github.com/tyrantlink/go-authcrunch/pkg/authn"
+	"github.com/tyrantlink/go-authcrunch/pkg/authz"
+	"github.com/tyrantlink/go-authcrunch/pkg/credentials"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/idp"
+	"github.com/tyrantlink/go-authcrunch/pkg/ids"
+	"github.com/tyrantlink/go-authcrunch/pkg/messaging"
+	"github.com/tyrantlink/go-authcrunch/pkg/registry"
+	"github.com/tyrantlink/go-authcrunch/pkg/sso"
 )
 
 // Config is a configuration of Server.

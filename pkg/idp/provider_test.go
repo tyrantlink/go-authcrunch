@@ -17,9 +17,9 @@ package idp
 import (
 	"fmt"
 	"github.com/google/go-cmp/cmp"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	logutil "github.com/greenpau/go-authcrunch/pkg/util/log"
+	"github.com/tyrantlink/go-authcrunch/internal/tests"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	logutil "github.com/tyrantlink/go-authcrunch/pkg/util/log"
 	"go.uber.org/zap"
 	"testing"
 )

@@ -15,7 +15,7 @@
 package messaging
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
 )
 
 // EmailProvider represents email messaging provider.

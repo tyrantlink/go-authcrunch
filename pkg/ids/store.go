@@ -16,12 +16,12 @@ package ids
 
 import (
 	"encoding/json"
-	"github.com/greenpau/go-authcrunch/pkg/authn/enums/operator"
-	"github.com/greenpau/go-authcrunch/pkg/authn/icons"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/ids/ldap"
-	"github.com/greenpau/go-authcrunch/pkg/ids/local"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/tyrantlink/go-authcrunch/pkg/authn/enums/operator"
+	"github.com/tyrantlink/go-authcrunch/pkg/authn/icons"
+	"github.com/tyrantlink/go-authcrunch/pkg/errors"
+	"github.com/tyrantlink/go-authcrunch/pkg/ids/ldap"
+	"github.com/tyrantlink/go-authcrunch/pkg/ids/local"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 )
 

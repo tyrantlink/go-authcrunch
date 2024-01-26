@@ -16,8 +16,8 @@ package authn
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/pkg/authn/enums/operator"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/tyrantlink/go-authcrunch/pkg/authn/enums/operator"
+	"github.com/tyrantlink/go-authcrunch/pkg/requests"
 	"go.uber.org/zap"
 	"net/http"
 	"strings"
